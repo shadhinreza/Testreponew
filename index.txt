@@ -1,0 +1,11 @@
+Hello World
+First git param. 
+
+We are changes new text in txt file...
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shadhinreza/Testreponew.git
+git push -u origin main
