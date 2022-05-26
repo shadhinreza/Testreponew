@@ -1,1 +1,2 @@
-Second time add merge.txt file on main branches.
+
+Merge conflicts will be happend.
