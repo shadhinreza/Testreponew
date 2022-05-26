@@ -1,1 +1,2 @@
-Some Text included new on main branch.
+
+Merge conflicts will be happen.
