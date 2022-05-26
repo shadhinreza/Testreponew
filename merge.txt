@@ -1,1 +1,1 @@
-Some text add in merge.txt file on master branch
+Merge conflicts will be happend
